@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<driverDetails>
+    <database>
+        <name>ORACLE</name>
+        <driver inUse="false" exists="true">
+            <name>ttttt</name>
+            <path>drivers/ORACLE/ttttt</path>
+        </driver>
+        <driver inUse="false" exists="true">
+            <name>zsss</name>
+            <path>drivers/ORACLE/zsss</path>
+        </driver>
+        <driver inUse="false" exists="true">
+            <name>ShJAr</name>
+            <path>drivers/ORACLE/ShJAr</path>
+        </driver>
+        <driver inUse="false" exists="true">
+            <name>hjhjh</name>
+            <path>drivers/ORACLE/hjhjh</path>
+        </driver>
+        <driver inUse="false" exists="true">
+            <name>ghvhgv</name>
+            <path>drivers/ORACLE/ghvhgv</path>
+        </driver>
+        <driver inUse="false" exists="true">
+            <name>testJar</name>
+            <path>drivers/ORACLE/testJar</path>
+        </driver>
+    </database>
+</driverDetails>
