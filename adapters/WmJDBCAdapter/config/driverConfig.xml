@@ -26,5 +26,9 @@
             <name>testJar</name>
             <path>drivers/ORACLE/testJar</path>
         </driver>
+        <driver inUse="false" exists="true">
+            <name>CDT_JAr</name>
+            <path>drivers/ORACLE/CDT_JAr</path>
+        </driver>
     </database>
 </driverDetails>
